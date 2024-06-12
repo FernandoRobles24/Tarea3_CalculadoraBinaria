@@ -1,6 +1,8 @@
 import tkinter as tk
 from constantes import style
 
+#Aqui se crean todas la ventanas
+
 class Home(tk.Frame):
 
     def __init__(self, parent, controller):

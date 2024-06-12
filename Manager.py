@@ -2,6 +2,8 @@ import tkinter as tk
 from constantes import style
 from screens import *
 
+#Este es el archivo que controla todo el programa
+
 class Manager(tk.Tk):
 
     def __init__(self, *args,**kwargs):

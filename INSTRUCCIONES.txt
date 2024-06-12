@@ -1,0 +1,13 @@
+INTRUCCION PARA LA EJECUCION DE LA CALCULADORA BINARIA
+
+PRIMER PASO
+Ejecutar el archivo llamado main.py
+
+SEGUNDO PASO
+Seleccionar si desea calcular de Binario a decimal o de Binario a octal
+
+TERCER PASO
+Realizar todas la operaciones que desee
+
+CUARTO PASO
+Dar click en el boton salir para cerrar todas la ventanas
